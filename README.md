@@ -1,81 +1,21 @@
- Hi, I'm Alfaz Shah 
-A dedicated Data Analyst Trainee** with hands-on internship experience in  
-SQL, Excel, and Power BI, passionate about transforming raw data into  
-actionable insights that support business decisions.
+# 💫 About Me:
+🔭 I’m  Data Analyst currently working on  <br>Data Analyst internship projects involving SQL analysis, Excel reporting, and Power BI dashboards.<br><br>👯 I’m looking to collaborate on  <br>Data analysis projects, dashboard creation, business reporting, and beginner-friendly analytics work.<br><br>🤝 I’m looking for help with  <br>Advanced SQL queries, Power BI DAX measures, and improving data visualization best practices.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Power BI (DAX & interactive visuals), and Python for data analysis.<br><br>💬 Ask me about  <br>SQL, Advanced Excel, Power BI dashboards, data cleaning, and basic data analysis workflows.<br><br>⚡ Fun fact  <br>I enjoy cleaning messy datasets and turning them into clear insights more than watching web series 😄<br>
 
-## About Me
 
--  Aspiring Data Analyst with real-world project experience  
-- Skilled in data cleaning, transformation & analysis  
-- Experienced in creating interactive Power BI dashboards  
--  Strong understanding of SQL queries & Excel analytics  
--  Continuously learning advanced analytics techniques  
--  Actively seeking entry-level Data Analyst opportunities  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aifaz-shah-236222261) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aifaz.shah246@gmail.com) 
 
-## Technical Skills
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aifazshah786&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aifazshah786&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aifazshah786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-**Data Analysis & Visualization**
-- SQL (Joins, Subqueries, Aggregations)
-- Advanced Excel (Pivot Tables, VLOOKUP, Data Cleaning)
-- Power BI (DAX, KPIs, Dashboards)
-
-**Programming & Tools**
-- Python Matlplotlib Panda (Basics for data analysis)
-- Git & GitHub
-- MS Excel | Power BI Service
-
-## Projects
-
-### Sales Performance Dashboard (Power BI)
-- Designed interactive dashboards using KPIs and slicers  
-- Applied DAX for calculated measures  
-- Improved business performance visibility  
-
-###  SQL Data Analysis Project
-- Wrote optimized SQL queries using joins & subqueries  
-- Analyzed datasets to solve business-related questions  
-
-###  Excel Data Cleaning & Reporting Project
-- Cleaned raw datasets using formulas and pivot tables  
-- Built structured reports for analysis-ready data  
-
---
-
-## 📊 GitHub Stats
-## 📊 GitHub Profile Snapshot
-
-**Role Focus:** Data Analyst  
-**Core Skills:** SQL • Advanced Excel • Power BI • Python (Basic)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aifazshah786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=aifazshah786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 Activity & Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🔥 Consistency & Commitment
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
----
-
-### 👀 Profile Visibility
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
-
----
-
-> *Turning raw data into insights that drive decisions.*
-
-
----
-
-## Connect With Me
-
--  LinkedIn: https://www.linkedin.com/in/YOUR_LINK  
-- 📧 Email: yourmail@gmail.com  
-- 💻l GitHub: https://github.com/YOUR_USERNAME  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
