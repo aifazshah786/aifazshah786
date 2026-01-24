@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m  Data Analyst currently working on  <br>Data Analyst internship projects involving SQL analysis, Excel reporting, and Power BI dashboards.<br><br>👯 I’m looking to collaborate on  <br>Data analysis projects, dashboard creation, business reporting, and beginner-friendly analytics work.<br><br>🤝 I’m looking for help with  <br>Advanced SQL queries, Power BI DAX measures, and improving data visualization best practices.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Power BI (DAX & interactive visuals), and Python for data analysis.<br><br>💬 Ask me about  <br>SQL, Advanced Excel, Power BI dashboards, data cleaning, and basic data analysis workflows.<br><br>⚡ Fun fact  <br>I enjoy cleaning messy datasets and turning them into clear insights more than watching web series 😄<br>
+🔭 I’m Data Analyst currently working on  <br>Data Analyst internship projects involving SQL analysis, Excel reporting, and Power BI dashboards.<br><br>👯 I’m looking to collaborate on  <br>Data analysis projects, dashboard creation, business reporting, and beginner-friendly analytics work.<br><br>🤝 I’m looking for help with  <br>Advanced SQL queries, Power BI DAX measures, and improving data visualization best practices.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Power BI (DAX & interactive visuals), and Python for data analysis.<br><br>💬 Ask me about  <br>SQL, Advanced Excel, Power BI dashboards, data cleaning, and basic data analysis workflows.<br><br>⚡ Fun fact  <br>I enjoy cleaning messy datasets and turning them into clear insights more than watching web series 😄<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aifazshah786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aifazshah786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aifazshah786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aifazshah786&icon=0&color=0)](https://visitcount.itsvg.in)
