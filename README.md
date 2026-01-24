@@ -42,10 +42,35 @@ actionable insights that support business decisions.
 --
 
 ## 📊 GitHub Stats
+## 📊 GitHub Profile Snapshot
 
-![Alfaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+**Role Focus:** Data Analyst  
+**Core Skills:** SQL • Advanced Excel • Power BI • Python (Basic)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
+
+### 📈 Activity & Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🔥 Consistency & Commitment
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+---
+
+### 👀 Profile Visibility
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+
+---
+
+> *Turning raw data into insights that drive decisions.*
+
 
 ---
 
