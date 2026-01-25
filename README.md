@@ -29,7 +29,7 @@
 
 ---
 
-## 💻 Tech Stack (Same Color Theme)
+## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
