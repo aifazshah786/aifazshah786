@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Performance (A+ Level)
+## 📊 GitHub Performance
 
 <table>
 <tr>
@@ -50,6 +50,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aifazshah786&show_icons=true&theme=dark&hide_border=true" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=aifazshah786&theme=dark&hide_border=true" />
+
+
 
 ### 🧠 Top Skills Matrix
 
