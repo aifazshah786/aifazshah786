@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AIFAZ SHAH</h1>
-<h3 align="center">🚀 A+ Grade | Passionate Data Analyst from India</h3>
+<h3 align="center">🚀 | Passionate Data Analyst from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7C52B&size=22&center=true&vCenter=true&width=600&lines=SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Turning+Data+Into+Insights;Building+Impactful+Dashboards" />
