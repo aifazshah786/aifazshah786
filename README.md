@@ -82,15 +82,3 @@
 
 </tr>
 </table>
-
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aifazshah786&theme=radical&no-frame=true&row=1" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aifazshah786&color=12" />
-</p>
