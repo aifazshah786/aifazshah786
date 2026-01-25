@@ -44,7 +44,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="left">
 
 ### 🔥 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=aifazshah786&show_icons=true&theme=dark&hide_border=true" />
