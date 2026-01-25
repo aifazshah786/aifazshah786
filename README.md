@@ -1,25 +1,96 @@
 <h1 align="center">Hi 👋, I'm AIFAZ SHAH</h1>
-<h3 align="center">A passionate Data Analyst from India</h3
-                                                       
-# 💫 About Me:
-🔭 I’m Data Analyst currently working on  <br>Data Analyst internship projects involving SQL analysis, Excel reporting, and Power BI dashboards.<br><br>👯 I’m looking to collaborate on  <br>Data analysis projects, dashboard creation, business reporting, and beginner-friendly analytics work.<br><br>🤝 I’m looking for help with  <br>Advanced SQL queries, Power BI DAX measures, and improving data visualization best practices.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Power BI (DAX & interactive visuals), and Python for data analysis.<br><br>💬 Ask me about  <br>SQL, Advanced Excel, Power BI dashboards, data cleaning, and basic data analysis workflows.<br><br>⚡ Fun fact  <br>I enjoy cleaning messy datasets and turning them into clear insights more than watching web series 😄<br>
+<h3 align="center">🚀 A+ Grade | Passionate Data Analyst from India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C52B&size=22&center=true&vCenter=true&width=600&lines=SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Turning+Data+Into+Insights;Building+Impactful+Dashboards" />
+</p>
+
+---
+
+## 💫 About Me
+🔭 Working on **Data Analyst Internship Projects**  
+📊 Skilled in **SQL Analysis, Excel Reporting & Power BI Dashboards**  
+👯 Open to **Data Analytics & BI collaborations**  
+🌱 Learning **Advanced SQL, DAX & Python for Analytics**  
+💬 Ask me about **SQL | Excel | Power BI | Data Cleaning**  
+⚡ Fun fact: I enjoy cleaning messy data more than watching web series 😄  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/aifaz-shah-236222261">
+    <img src="https://img.shields.io/badge/LinkedIn-AIFAZ%20SHAH-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:aifaz.shah246@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack (Same Color Theme)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Performance (A+ Level)
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔥 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aifazshah786&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=aifazshah786&theme=dark&hide_border=true" />
+
+### 🧠 Top Skills Matrix
+
+<table width="100%" cellspacing="10">
+<tr>
+
+<td width="25%" align="center">
+<b>SQL (Advanced)</b><br><br>
+🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜<br>
+<b>85%</b>
+</td>
+
+<td width="25%" align="center">
+<b>Python (Data Analysis)</b><br><br>
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜<br>
+<b>80%</b>
+</td>
+
+<td width="25%" align="center">
+<b>Power BI (DAX)</b><br><br>
+🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜<br>
+<b>75%</b>
+</td>
+
+<td width="25%" align="center">
+<b>Advanced Excel</b><br><br>
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜<br>
+<b>78%</b>
+</td>
+
+</tr>
+</table>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aifaz-shah-236222261) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aifaz.shah246@gmail.com) 
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aifazshah786&theme=radical&no-frame=true&row=1" />
+</p>
 
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aifazshah786&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aifazshah786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aifazshah786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aifazshah786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aifazshah786&layout=compact&theme=dark&langs_count=8&hide_border=true)
-
-
-
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aifazshah786&color=12" />
+</p>
