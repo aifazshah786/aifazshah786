@@ -12,9 +12,7 @@
 📊 Skilled in **SQL Analysis, Excel Reporting & Power BI Dashboards**  
 👯 Open to **Data Analytics & BI collaborations**  
 🌱 Learning **Advanced SQL, DAX & Python for Analytics**  
-💬 Ask me about **SQL | Excel | Power BI | Data Cleaning**  
-⚡ Fun fact: I enjoy cleaning messy data more than watching web series 😄  
-
+💬 Ask me about **SQL | Excel | Power BI | Data Cleaning**
 ---
 
 ## 🌐 Connect With Me
