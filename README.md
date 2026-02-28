@@ -83,10 +83,4 @@ Turning Data into Actionable Business Insights
 🔗 LinkedIn:  
 https://www.linkedin.com/in/aifaz-shah-236222261/
 
-🔗 GitHub:  
-https://github.com/aifazshah786
 
-
-## ⭐ Support
-
-If you find my projects valuable, consider giving them a star ⭐
