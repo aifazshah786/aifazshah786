@@ -35,37 +35,6 @@ Turning Data into Actionable Business Insights
 - Dashboard Design & Reporting  
 - Business Performance Analysis  
 
----
-
-## 📂 Featured Projects
-
-### 📊 Credit Card Financial Dashboard
-• Built interactive Power BI dashboard  
-• Analyzed revenue trends and customer behavior  
-• Delivered actionable business insights  
-
-🔗 Repository: https://github.com/aifazshah786/Credit-Card-Financial-Dashboard
-
----
-
-### 🛒 E-Commerce Sales Analysis
-• Performed Python-based analysis using Pandas & NumPy  
-• Identified customer purchase trends  
-• Generated sales performance reports  
-
-🔗 Repository: https://github.com/aifazshah786/Ecommerce-Sales-Analysis
-
----
-
-### 📈 Customer Retention & Churn Analysis
-• SQL-based customer retention analysis  
-• Calculated churn rate and repeat customer metrics  
-• Provided business improvement recommendations  
-
-🔗 Repository: https://github.com/aifazshah786/Customer-Retention-Analysis
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
