@@ -66,14 +66,10 @@ Turning Data into Actionable Business Insights
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aifazshah786&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifazshah786&layout=compact&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=aifazshah786&theme=tokyonight" />
 </p>
 
 ---
@@ -82,5 +78,3 @@ Turning Data into Actionable Business Insights
 
 🔗 LinkedIn:  
 https://www.linkedin.com/in/aifaz-shah-236222261/
-
-
