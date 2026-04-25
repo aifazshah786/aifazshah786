@@ -24,7 +24,7 @@ Turning Data into Actionable Business Insights
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-purple?logo=pandas)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
 
-### 📊 Visualization & BI Tools
+### Visualization & BI Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 
