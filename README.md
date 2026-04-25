@@ -28,14 +28,14 @@ Turning Data into Actionable Business Insights
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 
-### 📌 Core Analytics Skills
+###  Core Analytics Skills
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
 - KPI & Metrics Development  
 - Dashboard Design & Reporting  
 - Business Performance Analysis  
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=aifazshah786&theme=tokyonight" />
