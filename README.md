@@ -7,7 +7,7 @@ Turning Data into Actionable Business Insights
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎯 Detail-oriented Data Analyst with expertise in data cleaning, transformation, and business intelligence reporting.  
 📊 Strong experience in SQL querying, Python-based analysis, and interactive dashboard development.  
@@ -18,7 +18,7 @@ Turning Data into Actionable Business Insights
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Data Analysis
+###  Programming & Data Analysis
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-purple?logo=pandas)
